@@ -1,2 +1,2 @@
-# NinjaNJH.github.io
+# nichamlin.github.io
 Website
